@@ -16,21 +16,6 @@ Write a web service that:
 -   No authentication is required
 -   You can use the first formula from [this Wikipedia article](https://en.wikipedia.org/wiki/Great-circle_distance) to calculate distance. Don't forget, you'll need to convert degrees to radians. The GPS coordinates for our Dublin office are 53.339428, -6.257664. You can find the Customer list in `./Data`.
 
-### Evaluation Criteria
-
--   **PHP** best practices
--   We're looking for you to produce working code, with enough room to demonstrate how to structure components in a small program.
--   Poor answers will be in the form of one big function. It’s impossible to test anything smaller than the entire operation of the program, including reading from the input file. Errors are caught and ignored.
--   Good answers are well composed. Calculating distances and reading from a file are separate concerns. Classes or functions have clearly defined responsibilities. Test cases cover likely problems with input data.
--   It’s an excellent answer if we've learned something from reading the code.
-
-### CodeSubmit
-
-Please organize, design, test and document your code as if it were going into production - then push your changes to the master branch. After you have pushed your code, you may submit the assignment on the assignment page.
-
-All the best and happy coding,
-
-
 
 ### Developer Notes
 I have used Laravel Framework to speedup the development process and organize my code better to follow best standards
